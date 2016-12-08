@@ -1,0 +1,27 @@
+Needed Jars:
+	1) lwjgl.jar
+	2) slick-util.jar
+link native for OS to lwgjl.jar located in res/natives
+We Can import these quickly during Demo
+
+Controls
+Left Click - roll
+Right Click - end turn
+B - Buy
+N - don't buy
+P - pay rent
+Y - yes
+N - No
+
+Refactorings
+Rewrote code to use OpenGl instead of Swing
+Implemented what we were missing from last version
+	- Mortgage
+	- Auctions
+	- Houses
+	- Hotels
+	
+Also implemented
+	- Chance
+	- Community Chest
+	- AI	

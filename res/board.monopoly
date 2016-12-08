@@ -1,0 +1,40 @@
+[Go] 				0 		0 			100	 		100 		res/images/go.png 
+[Property] 			0 		100 		100 		100 		res/images/generic.png PURPLE Mediterranean_Avenue 400 200 400 200 
+[CommunityChest] 	0 		200 		100 		100 		res/images/communitychest.png 
+[Property] 			0 		300 		100 		100 		res/images/generic.png PURPLE Baltic_Avenue 400 200 400 200 
+[Income_Tax] 		0 		400 		100 		100 		res/images/tax.png 
+[Reading_Railroad] 	0 		500 		100 		100 		res/images/railroad.png 
+[Property]			0 		600 		100 		100 		res/images/generic.png LIGHTBLUE Oriental_Avenue 400 200 400 200 
+[Chance] 			0 		700 		100 		100 		res/images/chance.png 
+[Property] 			0 		800 		100 		100 		res/images/generic.png LIGHTBLUE Vermont_Avenue 400 200 400 200 
+[Property] 			0 		900 		100 		100 		res/images/generic.png LIGHTBLUE Connecticut_Avenue 400 200 400 200 
+[Jail] 				0 		1000 		100 		100 		res/images/jail.png      
+[Property] 			100 	1000 		100 		100 		res/images/generic.png LIGHTPURPLE St._Charles_Avenue 400 200 400 200 
+[Electric_Company] 	200 	1000 		100 		100 		res/images/utility.png 
+[Property] 			300 	1000 		100 		100 		res/images/generic.png LIGHTPURPLE States_Avenue 400 200 400 200 
+[Property] 			400		1000 		100 		100 		res/images/generic.png LIGHTPURPLE Virginia_Avenue 400 200 400 200 
+[Pennsylvania_Railroad] 500 	1000 		100 		100 		res/images/railroad.png 
+[Property] 			600 	1000 		100 		100 		res/images/generic.png ORANGE St._James_Place 400 200 400 200 
+[CommunityChest] 	700		1000 		100 		100 		res/images/communitychest.png 
+[Property] 			800		1000 		100 		100 		res/images/generic.png ORANGE Tenessee_Avenue 400 200 400 200 
+[Property] 			900		1000 		100 		100 		res/images/generic.png ORANGE New_York_Avenue 400 200 400 200 
+[FreeParking] 		1000	1000 		100 		100 		res/images/freeparking.png 
+[Property] 			1000 	900 		100 		100 		res/images/generic.png RED Kentucky_Avenue 400 200 400 200 
+[Chance] 			1000 	800 		100 		100 		res/images/chance.png 
+[Property] 			1000 	700 		100 		100 		res/images/generic.png RED Indiana_Avenue 400 200 400 200 
+[Property]			1000 	600 		100 		100 		res/images/generic.png RED MLK_Boulevard 400 200 400 200 
+[B&O_Railroad]		1000 	500 		100 		100 		res/images/railroad.png 
+[Property] 			1000 	400 		100 		100 		res/images/generic.png YELLOW Atlantic_Avenue 400 200 400 200 
+[Property] 			1000 	300 		100 		100 		res/images/generic.png YELLOW Ventnor_Avenue 400 200 400 200 
+[Water_Works] 		1000 	200 		100 		100 		res/images/utility.png 
+[Property] 			1000 	100	 		100 		100 		res/images/generic.png YELLOW Marvin_Gardens 400 200 400 200 
+[GoToJail] 			1000 	0 			100 		100 		res/images/gotojail.png 
+[Property] 			900 	0 			100 		100 		res/images/generic.png GREEN Pacific_Avenue 400 200 400 200 
+[Property] 			800 	0 			100 		100 		res/images/generic.png GREEN North_Carolina_Avenue 400 200 400 200 
+[CommunityChest] 	700 	0 			100 		100 		res/images/communitychest.png 
+[Property] 			600 	0 			100 		100 		res/images/generic.png GREEN Pennsylvania_Avenue 400 200 400 200 
+[Short_Line] 		500 	0 			100 		100 		res/images/railroad.png 
+[Chance] 			400 	0 			100 		100 		res/images/chance.png 
+[Property] 			300 	0 			100 		100 		res/images/generic.png BLUE Park_Place 400 200 400 200 
+[Luxury_Tax] 		200 	0 			100 		100 		res/images/tax.png 
+[Property] 			100 	0 			100 		100 		res/images/generic.png BLUE Boardwalk 400 200 400 200
